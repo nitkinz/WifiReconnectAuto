@@ -1,0 +1,15 @@
+c:\users\diman\documents\visual studio 2015\Projects\ConnectWiFi\ConnectWiFi\bin\Debug\ConnectWiFi.exe.config
+c:\users\diman\documents\visual studio 2015\Projects\ConnectWiFi\ConnectWiFi\bin\Debug\ConnectWiFi.exe
+c:\users\diman\documents\visual studio 2015\Projects\ConnectWiFi\ConnectWiFi\bin\Debug\ConnectWiFi.pdb
+c:\users\diman\documents\visual studio 2015\Projects\ConnectWiFi\ConnectWiFi\obj\Debug\ConnectWiFi.csprojResolveAssemblyReference.cache
+c:\users\diman\documents\visual studio 2015\Projects\ConnectWiFi\ConnectWiFi\obj\Debug\ConnectWiFi.exe
+c:\users\diman\documents\visual studio 2015\Projects\ConnectWiFi\ConnectWiFi\obj\Debug\ConnectWiFi.pdb
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\bin\Debug\ConnectWiFi.exe.config
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\obj\Debug\ConnectWiFi.exe
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\obj\Debug\ConnectWiFi.pdb
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\bin\Debug\ConnectWiFi.exe
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\bin\Debug\ConnectWiFi.pdb
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\bin\Debug\log4net.dll
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\bin\Debug\log4net.xml
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\obj\Debug\ConnectWiFi.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\ConnectWiFi\ConnectWiFi\bin\Debug\log4net.config

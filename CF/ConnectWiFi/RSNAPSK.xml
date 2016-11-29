@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+    <name>SampleWPA2PSK</name>
+    <SSIDConfig>
+        <SSID>
+            <name>SampleWPA2PSK</name>
+        </SSID>
+    </SSIDConfig>
+    <connectionType>ESS</connectionType>
+    <connectionMode>auto</connectionMode>
+    <autoSwitch>false</autoSwitch>
+    <MSM>
+        <security>
+            <authEncryption>
+                <authentication>WPA2PSK</authentication>
+                <encryption>AES</encryption>
+                <useOneX>false</useOneX>
+            </authEncryption>
+        </security>
+    </MSM>
+</WLANProfile>
