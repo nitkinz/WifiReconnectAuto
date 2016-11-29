@@ -20,8 +20,7 @@ namespace ConnectWiFi
 
         static void Main(string[] args)
         {
-            // Create an instance of the Example class, and start two
-            // timers.
+
             FileInfo f = new FileInfo("log4net.config");
             log4net.Config.XmlConfigurator.Configure(f);
             log = LogManager.GetLogger(typeof(Program));
